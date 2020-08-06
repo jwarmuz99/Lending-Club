@@ -1,10 +1,6 @@
 # Lending Club Predictive Modelling
 
-Lending Club is an American peer to peer lending company. The dataset was obtained from kaggle.com: 
-
-***
-kaggle.com/jakubwarmuz/lending-club-dataset?select=loan.csv
-***
+Lending Club is an American peer to peer lending company. The dataset was obtained from [kaggle.com](https://www.kaggle.com/jakubwarmuz/lending-club-dataset?select=loan.csv)
 
 It includes 2M+ entries with 145 features, such as client's demographics and loan details. A more thorough description of the features can be found in the LCDataDictionary.xlsx file.
 
